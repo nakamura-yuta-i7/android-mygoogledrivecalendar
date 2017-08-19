@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "248228434533",
+    "project_id": "default-demo-app-72a3b"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248228434533:android:27d689d63f1b7a06",
+        "android_client_info": {
+          "package_name": "com.google.samples.quickstart.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248228434533-14le0gjmr93v88rt240svbhrmelj04n5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "248228434533-gsah1vk9fjkt9chma23ogu3fkqqv5ar7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.samples.quickstart.signin",
+            "certificate_hash": "18be59094de92f5e811feb5b5d973bc0dff22571"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9pNaI9DjNf4FprYBi1aRiy4-p8Y8VWk8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248228434533:android:e067e91321c65b8e",
+        "android_client_info": {
+          "package_name": "com.dena.mygoogledrivecalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248228434533-14le0gjmr93v88rt240svbhrmelj04n5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "248228434533-s38oob9phmgsknp8mq1td4m84bppfhlm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dena.mygoogledrivecalendar",
+            "certificate_hash": "18be59094de92f5e811feb5b5d973bc0dff22571"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9pNaI9DjNf4FprYBi1aRiy4-p8Y8VWk8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
