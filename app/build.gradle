@@ -37,13 +37,9 @@ dependencies {
     // Google APIs [START]
     compile 'com.google.android.gms:play-services-auth:11.0.4'
     compile 'com.google.android.gms:play-services-drive:11.0.4'
-    compile('com.google.api-client:google-api-client-android:1.22.0') {
-        exclude group: 'org.apache.httpcomponents'
-    }
-    compile('com.google.apis:google-api-services-calendar:v3-rev254-1.22.0') {
-        exclude group: 'org.apache.httpcomponents'
-    }
-    compile 'pub.devrel:easypermissions:0.3.0'
+    compile('com.google.api-client:google-api-client-android:1.22.0')
+    compile('com.google.apis:google-api-services-calendar:v3-rev254-1.22.0')
+    compile('com.google.apis:google-api-services-sheets:v4-rev483-1.22.0')
     // Google APIs [END]
 }
 repositories {
